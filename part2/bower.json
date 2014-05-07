@@ -1,0 +1,9 @@
+{
+  "name": "part2",
+  "main": "part2.js",
+  "version": "0.0.0",
+  "homepage": "https://github.com/abeadam/bowerTest",
+  "license": "MIT",
+  "private": true,
+  "dependencies":
+}
